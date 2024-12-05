@@ -1,16 +1,68 @@
-## Hi there 👋
+# H2 - I'm currently developing: 
 
-<!--
-**BlakieSL/BlakieSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fitness Application 🏋️
 
-Here are some ideas to get you started:
+## 📚 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Backend
+- **Programming Language:** Java
+- **Frameworks & Libraries:**
+  - Spring Core
+  - Spring Context
+  - Spring AOP
+  - Spring Boot:
+    - Validation
+    - Mail
+  - Spring Data JPA
+  - Spring Data Redis
+  - Spring Security
+  - Spring MVC
+- **Testing Tools:**
+  - JUnit
+  - Mockito
+  - Jacoco
+- **Search Engine:**
+  - Apache Lucene
+
+### 🌐 Frontend
+- **Programming Languages:** JavaScript, TypeScript
+- **Frameworks & Libraries:**
+  - ⚛️ React
+  - 🌀 Redux
+  - 🔄 RTK Query
+  - 🎨 Mantine
+
+---
+
+# OneClickBooking 🖱️
+
+## 📚 Tech Stack
+
+### 🖥️ Backend
+- **Programming Language:** Kotlin
+- **Frameworks & Libraries:**
+  - Spring Core
+  - Spring Boot:
+    - Validation
+    - Mail
+  - Spring Data JPA
+  - Spring Data Redis
+  - Spring Security
+  - Spring MVC
+
+---
+
+# Online Casino 🎰
+
+
+## 📚 Tech Stack
+
+### 🖥️ Backend
+- **Programming Language:** Java
+- **Frameworks & Libraries:**
+  - Spring Core
+  - Spring Boot
+  - Spring Data JPA
+  - Spring Security
+  - Spring WebFlux
+  - Spring Mail
