@@ -1,4 +1,4 @@
-# - I'm currently developing: 
+# I'm currently developing: 
 
 # Fitness Application 🏋️
 
