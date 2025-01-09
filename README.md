@@ -34,24 +34,6 @@
 
 ---
 
-# OneClickBooking 🖱️
-
-## 📚 Tech Stack
-
-### 🖥️ Backend
-- **Programming Language:** Kotlin
-- **Frameworks & Libraries:**
-  - Spring Core
-  - Spring Boot:
-    - Validation
-    - Mail
-  - Spring Data JPA
-  - Spring Data Redis
-  - Spring Security
-  - Spring MVC
-
----
-
 # Online Casino 🎰
 
 
