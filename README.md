@@ -12,10 +12,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 🕵️ Monitoring & Observability
-![Zipkin](https://img.shields.io/badge/Zipkin-000000?style=flat&logo=apache&logoColor=white)
-![Micrometer](https://img.shields.io/badge/Micrometer-000000?style=flat&logo=micrometer&logoColor=white)
-
 ### 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -26,12 +22,4 @@
 ### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
-### 📐 Design & Modeling
-![UML](https://img.shields.io/badge/UML-000000?style=flat)
-![BPMN](https://img.shields.io/badge/BPMN-000000?style=flat)
-![LucidChart](https://img.shields.io/badge/LucidChart-F2994A?style=flat&logo=lucidchart&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
